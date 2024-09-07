@@ -1,0 +1,44 @@
+{ "recipes": [
+    {
+        "id": 1,
+        "title": "Spaghetti Aglio e Olio",
+        "image": "spaghetti_aglio_olio.jpg",
+        "time": 15,
+        "description": "Simple but flavorful pasta with garlic, olive oil, and red pepper flakes.",
+        "vegan": true
+    },
+    {
+        "id": 2,
+        "title": "Margherita Pizza",
+        "image": "margherita_pizza.jpg",
+        "time": 45,
+        "description": "Classic pizza with tomato sauce, mozzarella, and fresh basil.",
+        "vegan": false
+    },
+    {
+        "id": 3,
+        "title": "Lentil Soup",
+        "image": "lentil_soup.jpg",
+        "time": 60,
+        "description": "Hearty and nutritious soup made with lentils, vegetables, and herbs.",
+        "vegan": true
+    },
+    {
+        "id": 4,
+        "title": "Chicken Tikka Masala",
+        "image": "chicken_tikka_masala.jpg",
+        "time": 90,
+        "description": "Creamy Indian curry with marinated chicken in a spiced tomato sauce.",
+        "vegan": false
+    },
+    {
+        "id": 5,
+        "title": "Chocolate Chip Cookies",
+        "image": "chocolate_chip_cookies.jpg",
+        "time": 30,
+        "description": "Soft and chewy cookies with plenty of chocolate chips.",
+        "vegan": false
+    }
+    
+]
+}
